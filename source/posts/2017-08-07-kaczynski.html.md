@@ -1,0 +1,13 @@
+---
+title: Frases y fragmentos de lecturas más o menos recientes
+date: 2017-08-07 18:32 UTC
+tags: Citas
+---
+
+
+
+> 126) Let us explain why technology is a more powerful social force than the aspiration for freedom.
+>
+> 127) A technological advance that appears not to threaten freedom often turns out to threaten it very seriously later on. For example, consider motorized transport. A walking man formerly could go where he pleased, go at his own pace without observing any traffic regulations, and was independent of technological support-systems. When motor vehicles were introduced they appeared to increase man’s freedom. They took no freedom away from the walking man, no one had to have an automobile if he didn’t want one, and anyone who did choose to buy an automobile could travel much faster and farther than a walking man. But the introduction of motorized transport soon changed society in such a way as to restrict greatly man’s freedom of locomotion. When automobiles became numerous, it became necessary to regulate their use extensively. In a car, especially in densely populated areas, one cannot just go where one likes at one’s own pace; one’s movement is governed by the flow of traffic and by various traffic laws. One is tied down by various obligations: license requirements, driver test, renewing registration, insurance, maintenance required for safety, monthly payments on purchase price. Moreover, the use of motorized transport is no longer optional. Since the introduction of motorized transport the arrangement of our cities has changed in such a way that the majority of people no longer live within walking distance of their place of employment, shopping areas and recreational opportunities, so that they HAVE TO depend on the automobile for transportation. Or else they must use public transportation, in which case they have even less control over their own movement than when driving a car. Even the walker’s freedom is now greatly restricted. In the city he continually has to stop to wait for traffic lights that are designed mainly to serve auto traffic. In the country, motor traffic makes it dangerous and unpleasant to walk along the highway. (Note this important point that we have just illustrated with the case of motorized transport: When a new item of technology is introduced as an option that an individual can accept or not as he chooses, it does not necessarily REMAIN optional. In many cases the new technology changes society in such a way that people eventually find themselves FORCED to use it.)
+>
+> &mdash; <em>Theodore Kaczynski</em>, Industrial Society and Its Future

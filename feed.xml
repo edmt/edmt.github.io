@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Drops Template</title>
-  <id>http://blog.example.com</id>
-  <link href="http://blog.example.com"/>
-  <link href="http://blog.example.com/feed.xml" rel="self"/>
+  <title>Tumbolia</title>
+  <id>http://edmt.github.io</id>
+  <link href="http://edmt.github.io"/>
+  <link href="http://edmt.github.io/feed.xml" rel="self"/>
   <updated>2018-11-24T13:39:00-06:00</updated>
   <author>
-    <name>Site Author</name>
+    <name>Daniel M</name>
   </author>
   <entry>
     <title>Walking the cow</title>
-    <link rel="alternate" href="http://blog.example.com/2018/11/24/walking-the-cow/"/>
-    <id>http://blog.example.com/2018/11/24/walking-the-cow/</id>
+    <link rel="alternate" href="http://edmt.github.io/2018/11/24/walking-the-cow/"/>
+    <id>http://edmt.github.io/2018/11/24/walking-the-cow/</id>
     <published>2018-11-24T13:39:00-06:00</published>
     <updated>2018-11-24T13:45:12-06:00</updated>
     <summary type="html">&lt;p&gt;I really don’t know how I came here.&lt;/p&gt;
@@ -37,8 +37,8 @@
   </entry>
   <entry>
     <title>But life is loneliness</title>
-    <link rel="alternate" href="http://blog.example.com/2018/10/06/but-life-is-loneliness/"/>
-    <id>http://blog.example.com/2018/10/06/but-life-is-loneliness/</id>
+    <link rel="alternate" href="http://edmt.github.io/2018/10/06/but-life-is-loneliness/"/>
+    <id>http://edmt.github.io/2018/10/06/but-life-is-loneliness/</id>
     <published>2018-10-06T12:01:00-05:00</published>
     <updated>2018-10-06T12:02:40-05:00</updated>
     <summary type="html">&lt;blockquote&gt;
@@ -53,8 +53,8 @@
   </entry>
   <entry>
     <title>Frases y fragmentos de lecturas más o menos recientes</title>
-    <link rel="alternate" href="http://blog.example.com/2017/08/07/kaczynski/"/>
-    <id>http://blog.example.com/2017/08/07/kaczynski/</id>
+    <link rel="alternate" href="http://edmt.github.io/2017/08/07/kaczynski/"/>
+    <id>http://edmt.github.io/2017/08/07/kaczynski/</id>
     <published>2017-08-07T13:32:00-05:00</published>
     <updated>2018-10-06T11:55:57-05:00</updated>
     <summary type="html">
@@ -75,8 +75,8 @@
   </entry>
   <entry>
     <title>When the spirits are low, when the day appears dark</title>
-    <link rel="alternate" href="http://blog.example.com/2017/03/30/when-the-spirits-are-low-when-the-day-appears-dark/"/>
-    <id>http://blog.example.com/2017/03/30/when-the-spirits-are-low-when-the-day-appears-dark/</id>
+    <link rel="alternate" href="http://edmt.github.io/2017/03/30/when-the-spirits-are-low-when-the-day-appears-dark/"/>
+    <id>http://edmt.github.io/2017/03/30/when-the-spirits-are-low-when-the-day-appears-dark/</id>
     <published>2017-03-30T12:32:00-06:00</published>
     <updated>2018-10-06T11:26:45-05:00</updated>
     <summary type="html">&lt;blockquote&gt;
@@ -93,8 +93,8 @@
   </entry>
   <entry>
     <title>La camisa del hombre feliz</title>
-    <link rel="alternate" href="http://blog.example.com/2016/08/13/la-camisa-del-hombre-feliz/"/>
-    <id>http://blog.example.com/2016/08/13/la-camisa-del-hombre-feliz/</id>
+    <link rel="alternate" href="http://edmt.github.io/2016/08/13/la-camisa-del-hombre-feliz/"/>
+    <id>http://edmt.github.io/2016/08/13/la-camisa-del-hombre-feliz/</id>
     <published>2016-08-13T08:06:00-05:00</published>
     <updated>2018-10-06T11:26:45-05:00</updated>
     <summary type="html">&lt;p&gt;En las lejanas tierras del norte, hace mucho tiempo, vivió un zar que enfermó gravemente. Reunió a los mejores médicos de todo el imperio, que le aplicaron todos los remedios que conocían y otros nuevos que inventaron sobre la marcha, pero lejos de...&lt;/p&gt;</summary>
@@ -124,8 +124,8 @@
   </entry>
   <entry>
     <title>El club de los niños filósofos</title>
-    <link rel="alternate" href="http://blog.example.com/2015/12/29/el-club-de-los-ninos-filosofos/"/>
-    <id>http://blog.example.com/2015/12/29/el-club-de-los-ninos-filosofos/</id>
+    <link rel="alternate" href="http://edmt.github.io/2015/12/29/el-club-de-los-ninos-filosofos/"/>
+    <id>http://edmt.github.io/2015/12/29/el-club-de-los-ninos-filosofos/</id>
     <published>2015-12-29T09:21:00-06:00</published>
     <updated>2018-10-06T11:26:45-05:00</updated>
     <summary type="html">&lt;p&gt;&lt;img src="../../../../images/2015-12-29-el-club-de-los-ninos-filosofos/portada-bf282108.jpg" alt="Enriqueta y Madariaga" title="Enriqueta y Madariaga."&gt;&lt;/p&gt;

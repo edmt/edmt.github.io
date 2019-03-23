@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://blog.example.com/sitemap.xml
+Sitemap: http://edmt.github.io/sitemap.xml

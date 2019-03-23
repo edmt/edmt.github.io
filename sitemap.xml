@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://edmt.github.io/2014/page/2/</loc>
+    <loc>http://edmt.github.io/2010/page/2/</loc>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://edmt.github.io/page/2/</loc>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://edmt.github.io/page/3/</loc>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://edmt.github.io/archives/page/2/</loc>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://edmt.github.io/archives/page/3/</loc>
+    <loc>http://edmt.github.io/archives/page/6/</loc>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://edmt.github.io/tags/citas/page/2/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/tags/citas/page/3/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/tags/arte/page/2/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2014/page/2/</loc>
     <priority>0.5</priority>
   </url>
   <url>
@@ -37,7 +37,31 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://edmt.github.io/2012/11/10/sin-titulo-2/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2013/10/29/sin-titulo/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://edmt.github.io/2014/08/03/kakfa/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2011/01/28/the-eyes-of-fire/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2010/12/10/our-local-horror-history/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2010/04/01/la-galaxia-de-kok/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2010/10/14/esta-es-mi-mano-mi-sangre-brota-de-ella/</loc>
     <priority>0.5</priority>
   </url>
   <url>
@@ -45,7 +69,19 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://edmt.github.io/2010/07/29/twelve-monkeys/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2010/03/17/nature-by-numbers/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://edmt.github.io/2014/08/03/el-gran-libro-yum-yum/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2010/05/13/harold-and-maude/</loc>
     <priority>0.5</priority>
   </url>
   <url>
@@ -57,7 +93,23 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://edmt.github.io/2010/05/04/zaratustra/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2010/07/21/chronopolis/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2011/02/18/2n/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://edmt.github.io/2015/12/29/el-club-de-los-ninos-filosofos/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2010/07/12/nim/</loc>
     <priority>0.5</priority>
   </url>
   <url>
@@ -69,7 +121,15 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://edmt.github.io/2012/11/10/sin-titulo-1/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://edmt.github.io/2015/10/03/la-paliza-que-marco-la-vida-de-julio-verne/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2010/10/23/why-is-geometry-often-described-as-cold-and-dry/</loc>
     <priority>0.5</priority>
   </url>
   <url>
@@ -86,6 +146,10 @@
   </url>
   <url>
     <loc>http://edmt.github.io/2014/05/31/todos-los-dias-el-mismo-sueno/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2010/11/27/110290/</loc>
     <priority>0.5</priority>
   </url>
   <url>
@@ -109,6 +173,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://edmt.github.io/2010/05/16/tumbolia/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2010/04/04/computers-are-just-machines/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2010/08/14/conjuntos-de-julia/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://edmt.github.io/2015/08/22/el-caballero-oscuro-y-la-filosofia-de-nietzsche/</loc>
     <priority>0.5</priority>
   </url>
@@ -118,6 +194,10 @@
   </url>
   <url>
     <loc>http://edmt.github.io/2016/08/13/la-camisa-del-hombre-feliz/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2010/03/21/turing-once-dreamed/</loc>
     <priority>0.5</priority>
   </url>
   <url>
@@ -137,11 +217,27 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://edmt.github.io/2010/04/12/sin-titulo/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://edmt.github.io/2014/06/02/musica-antigua/</loc>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://edmt.github.io/2015/06/03/yoshihiro-tatsumi-y-el-gekiga/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2010/06/26/how-perfectly-goddamned-delightful-it-all-is-to-be-sure/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2011/10/30/spirit-that-lives-in-computer/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2010/07/24/recuerdos-sosainas-souvenirs-fadasses/</loc>
     <priority>0.5</priority>
   </url>
   <url>
@@ -190,6 +286,10 @@
   </url>
   <url>
     <loc>http://edmt.github.io/tags/autorreferencia/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/tags/sofware/</loc>
     <priority>0.5</priority>
   </url>
   <url>
@@ -393,11 +493,223 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://edmt.github.io/2013/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2013/10/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2013/10/29/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2012/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2012/11/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2012/11/10/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2011/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2011/10/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2011/10/30/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2011/02/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2011/02/18/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2011/01/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2011/01/28/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2010/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2010/12/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2010/12/10/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2010/11/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2010/11/27/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2010/10/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2010/10/23/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2010/10/14/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2010/08/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2010/08/14/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2010/07/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2010/07/29/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2010/07/24/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2010/07/21/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2010/07/12/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2010/06/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2010/06/26/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2010/05/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2010/05/16/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2010/05/13/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2010/05/04/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2010/04/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2010/04/12/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2010/04/04/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2010/04/01/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2010/03/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2010/03/21/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2010/03/17/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://edmt.github.io/tags/page/2/</loc>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://edmt.github.io/tags/page/3/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/tags/page/4/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/tags/page/5/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/tags/page/6/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/page/2/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/page/3/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/page/4/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/page/5/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/page/6/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/archives/page/2/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/archives/page/3/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/archives/page/4/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/archives/page/5/</loc>
     <priority>0.5</priority>
   </url>
 </urlset>

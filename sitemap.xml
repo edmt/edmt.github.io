@@ -113,6 +113,10 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://edmt.github.io/2019/02/11/the-egg/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://edmt.github.io/2016/08/13/la-camisa-del-hombre-feliz/</loc>
     <priority>0.5</priority>
   </url>
@@ -157,15 +161,15 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://edmt.github.io/tags/literatura/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://edmt.github.io/tags/canciones/</loc>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://edmt.github.io/tags/citas/</loc>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://edmt.github.io/tags/literatura/</loc>
     <priority>0.5</priority>
   </url>
   <url>
@@ -186,6 +190,18 @@
   </url>
   <url>
     <loc>http://edmt.github.io/tags/autorreferencia/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2019/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2019/02/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2019/02/11/</loc>
     <priority>0.5</priority>
   </url>
   <url>

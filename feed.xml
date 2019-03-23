@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Drops Template</title>
+  <id>http://blog.example.com</id>
+  <link href="http://blog.example.com"/>
+  <link href="http://blog.example.com/feed.xml" rel="self"/>
+  <updated>2018-11-24T13:39:00-06:00</updated>
+  <author>
+    <name>Site Author</name>
+  </author>
+  <entry>
+    <title>Walking the cow</title>
+    <link rel="alternate" href="http://blog.example.com/2018/11/24/walking-the-cow/"/>
+    <id>http://blog.example.com/2018/11/24/walking-the-cow/</id>
+    <published>2018-11-24T13:39:00-06:00</published>
+    <updated>2018-11-24T13:45:12-06:00</updated>
+    <summary type="html">&lt;p&gt;I really don’t know how I came here.&lt;/p&gt;
+
+&lt;p&gt;I really don’t know why I’m staying here.&lt;/p&gt;
+
+&lt;p&gt;I really don’t know what I have to fear.&lt;/p&gt;
+
+&lt;p&gt;I really don’t know what I have to care.&lt;/p&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/iul0yWUJ5X4?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""&gt;&lt;/iframe&gt;
+</summary>
+    <content type="html">&lt;p&gt;I really don’t know how I came here.&lt;/p&gt;
+
+&lt;p&gt;I really don’t know why I’m staying here.&lt;/p&gt;
+
+&lt;p&gt;I really don’t know what I have to fear.&lt;/p&gt;
+
+&lt;p&gt;I really don’t know what I have to care.&lt;/p&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/iul0yWUJ5X4?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""&gt;&lt;/iframe&gt;
+</content>
+  </entry>
+  <entry>
+    <title>But life is loneliness</title>
+    <link rel="alternate" href="http://blog.example.com/2018/10/06/but-life-is-loneliness/"/>
+    <id>http://blog.example.com/2018/10/06/but-life-is-loneliness/</id>
+    <published>2018-10-06T12:01:00-05:00</published>
+    <updated>2018-10-06T12:02:40-05:00</updated>
+    <summary type="html">&lt;blockquote&gt;
+  &lt;p&gt;God, but life is loneliness, despite all the opiates, despite the shrill tinsel gaiety of ‘parties’ with no purpose, despite the false grinning faces we all wear. And when at last you find someone to whom you feel you can pour out your soul, you...&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;God, but life is loneliness, despite all the opiates, despite the shrill tinsel gaiety of ‘parties’ with no purpose, despite the false grinning faces we all wear. And when at last you find someone to whom you feel you can pour out your soul, you stop in shock at the words you utter – they are so rusty, so ugly, so meaningless and feeble from being kept in the small cramped dark inside you so long. Yes, there is joy, fulfillment and companionship – but the loneliness of the soul in its appalling self-consciousness is horrible and overpowering.&lt;/p&gt;
+
+  &lt;p&gt;— &lt;em&gt;Sylvia Plath&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Frases y fragmentos de lecturas más o menos recientes</title>
+    <link rel="alternate" href="http://blog.example.com/2017/08/07/kaczynski/"/>
+    <id>http://blog.example.com/2017/08/07/kaczynski/</id>
+    <published>2017-08-07T13:32:00-05:00</published>
+    <updated>2018-10-06T11:55:57-05:00</updated>
+    <summary type="html">
+&lt;blockquote&gt;
+  &lt;p&gt;126) Let us explain why technology is a more powerful social force than the aspiration for freedom.&lt;/p&gt;
+
+  &lt;p&gt;127) A technological advance that appears not to threaten freedom often turns out to threaten it very seriously later on. For example, consider...&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    <content type="html">
+&lt;blockquote&gt;
+  &lt;p&gt;126) Let us explain why technology is a more powerful social force than the aspiration for freedom.&lt;/p&gt;
+
+  &lt;p&gt;127) A technological advance that appears not to threaten freedom often turns out to threaten it very seriously later on. For example, consider motorized transport. A walking man formerly could go where he pleased, go at his own pace without observing any traffic regulations, and was independent of technological support-systems. When motor vehicles were introduced they appeared to increase man’s freedom. They took no freedom away from the walking man, no one had to have an automobile if he didn’t want one, and anyone who did choose to buy an automobile could travel much faster and farther than a walking man. But the introduction of motorized transport soon changed society in such a way as to restrict greatly man’s freedom of locomotion. When automobiles became numerous, it became necessary to regulate their use extensively. In a car, especially in densely populated areas, one cannot just go where one likes at one’s own pace; one’s movement is governed by the flow of traffic and by various traffic laws. One is tied down by various obligations: license requirements, driver test, renewing registration, insurance, maintenance required for safety, monthly payments on purchase price. Moreover, the use of motorized transport is no longer optional. Since the introduction of motorized transport the arrangement of our cities has changed in such a way that the majority of people no longer live within walking distance of their place of employment, shopping areas and recreational opportunities, so that they HAVE TO depend on the automobile for transportation. Or else they must use public transportation, in which case they have even less control over their own movement than when driving a car. Even the walker’s freedom is now greatly restricted. In the city he continually has to stop to wait for traffic lights that are designed mainly to serve auto traffic. In the country, motor traffic makes it dangerous and unpleasant to walk along the highway. (Note this important point that we have just illustrated with the case of motorized transport: When a new item of technology is introduced as an option that an individual can accept or not as he chooses, it does not necessarily REMAIN optional. In many cases the new technology changes society in such a way that people eventually find themselves FORCED to use it.)&lt;/p&gt;
+
+  &lt;p&gt;— &lt;em&gt;Theodore Kaczynski&lt;/em&gt;, Industrial Society and Its Future&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+  </entry>
+  <entry>
+    <title>When the spirits are low, when the day appears dark</title>
+    <link rel="alternate" href="http://blog.example.com/2017/03/30/when-the-spirits-are-low-when-the-day-appears-dark/"/>
+    <id>http://blog.example.com/2017/03/30/when-the-spirits-are-low-when-the-day-appears-dark/</id>
+    <published>2017-03-30T12:32:00-06:00</published>
+    <updated>2018-10-06T11:26:45-05:00</updated>
+    <summary type="html">&lt;blockquote&gt;
+  &lt;p&gt;When the spirits are low, when the day appears dark, when work becomes monotonous, when hope hardly seems worth having, just mount a bicycle and go out for a spin down the road, without thought on anything but the ride you are taking.&lt;/p&gt;
+
+  &lt;p&gt;— &lt;em&gt;Arthur...&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;When the spirits are low, when the day appears dark, when work becomes monotonous, when hope hardly seems worth having, just mount a bicycle and go out for a spin down the road, without thought on anything but the ride you are taking.&lt;/p&gt;
+
+  &lt;p&gt;— &lt;em&gt;Arthur Conan Doyle&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+  </entry>
+  <entry>
+    <title>La camisa del hombre feliz</title>
+    <link rel="alternate" href="http://blog.example.com/2016/08/13/la-camisa-del-hombre-feliz/"/>
+    <id>http://blog.example.com/2016/08/13/la-camisa-del-hombre-feliz/</id>
+    <published>2016-08-13T08:06:00-05:00</published>
+    <updated>2018-10-06T11:26:45-05:00</updated>
+    <summary type="html">&lt;p&gt;En las lejanas tierras del norte, hace mucho tiempo, vivió un zar que enfermó gravemente. Reunió a los mejores médicos de todo el imperio, que le aplicaron todos los remedios que conocían y otros nuevos que inventaron sobre la marcha, pero lejos de...&lt;/p&gt;</summary>
+    <content type="html">&lt;p&gt;En las lejanas tierras del norte, hace mucho tiempo, vivió un zar que enfermó gravemente. Reunió a los mejores médicos de todo el imperio, que le aplicaron todos los remedios que conocían y otros nuevos que inventaron sobre la marcha, pero lejos de mejorar, el estado del zar parecía cada vez peor.&lt;/p&gt;
+
+&lt;p&gt;Le hicieron tomar baños calientes y fríos, ingirió jarabes de eucalipto, menta y plantas exóticas traídas en caravanas de lejanos países. Le aplicaron ungüentos y bálsamos con los ingredientes más insólitos, pero la salud del zar no mejoraba. Tan desesperado estaba el hombre que prometió la mitad de lo que poseía a quien fuera capaz de curarle. El anuncio se propagó rápidamente, pues las pertenencias del gobernante eran cuantiosas, y llegaron médicos, magos y curanderos de todas partes del globo para intentar devolver la salud al zar. Sin embargo fue un trovador quien pronunció:&lt;/p&gt;
+
+&lt;p&gt;—Yo sé el remedio: la única medicina para vuestros males, Señor. Sólo hay que buscar a un hombre feliz: vestir su camisa es la cura a vuestra enfermedad.&lt;/p&gt;
+
+&lt;p&gt;Partieron emisarios del zar hacia todos los confines de la tierra, pero encontrar a un hombre feliz no era tarea fácil: aquel que tenía salud echaba en falta el dinero, quien lo poseía, carecía de amor, y quien lo tenía se quejaba de los hijos.&lt;/p&gt;
+
+&lt;p&gt;Mas una tarde, los soldados del zar pasaron junto a una pequeña choza en la que un hombre descansaba sentado junto a la lumbre de la chimenea:&lt;/p&gt;
+
+&lt;p&gt;—¡Qué bella es la vida! Con el trabajo realizado, una salud de hierro y afectuosos amigos y familiares ¿qué más podría pedir?&lt;/p&gt;
+
+&lt;p&gt;Al enterarse en palacio de que, por fin, habían encontrado un hombre feliz, se extendió la alegría. El hijo mayor del zar ordenó inmediatamente:&lt;/p&gt;
+
+&lt;p&gt;—Traed prestamente la camisa de ese hombre. ¡Ofrecedle a cambio lo que pida!&lt;/p&gt;
+
+&lt;p&gt;En medio de una gran algarabía, comenzaron los preparativos para celebrar la inminente recuperación del gobernante. Grande era la impaciencia de la gente por ver volver a los emisarios con la camisa que curaría a su gobernante, mas, cuando por fin llegaron, traían las manos vacías:&lt;/p&gt;
+
+&lt;p&gt;—¿Dónde está la camisa del hombre feliz? ¡Es necesario que la vista mi padre!&lt;br /&gt;
+—Señor -contestaron apenados los mensajeros-, el hombre feliz no tiene camisa.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;León Tolstói&lt;/em&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>El club de los niños filósofos</title>
+    <link rel="alternate" href="http://blog.example.com/2015/12/29/el-club-de-los-ninos-filosofos/"/>
+    <id>http://blog.example.com/2015/12/29/el-club-de-los-ninos-filosofos/</id>
+    <published>2015-12-29T09:21:00-06:00</published>
+    <updated>2018-10-06T11:26:45-05:00</updated>
+    <summary type="html">&lt;p&gt;&lt;img src="../../../../images/2015-12-29-el-club-de-los-ninos-filosofos/portada-bf282108.jpg" alt="Enriqueta y Madariaga" title="Enriqueta y Madariaga."&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Fuente: &lt;a href="http://www.porliniers.com"&gt;Por Liniers&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Sí, es un título pretencioso. Lo sé. Y parcialmente falso, porque siendo estrictos, no se trata de un club ni de niños (no ficticios) y, la verdad, tampoco de filosofía. Pero ahora que tengo tu atención, quiero que pienses...&lt;/p&gt;</summary>
+    <content type="html">&lt;p&gt;&lt;img src="../../../../images/2015-12-29-el-club-de-los-ninos-filosofos/portada-bf282108.jpg" alt="Enriqueta y Madariaga" title="Enriqueta y Madariaga." /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Fuente: &lt;a href="http://www.porliniers.com"&gt;Por Liniers&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Sí, es un título pretencioso. Lo sé. Y parcialmente falso, porque siendo estrictos, no se trata de un club ni de niños (no ficticios) y, la verdad, tampoco de filosofía. Pero ahora que tengo tu atención, quiero que pienses un momento en personajes como Calvin, de Calvin and Hobbes; Mafalda, Charlie Brown y algunos de los personajes de Macanudo. O mejor aún, en sus padres: &lt;strong&gt;Bill Waterson, Quino, Charles Schulz y Liniers&lt;/strong&gt;, los verdaderos niños.&lt;/p&gt;
+
+&lt;p&gt;Espero no ser malinterpretado, porque de ningún modo es un agravio. Lo que trato de resaltar es ese “no sé qué” que tienen en común las tiras mencionadas. Pienso, por ejemplo, que el hecho de que los personajes sean niños predispone a uno a pensar que lo que va a encontrar en estos cómics no va más allá de aventuras y bromas infantiles. Hasta que, claro, uno lee atentamente a estos niños gigantes y lo que encuentra realmente es una mezcla de humor elusivo, crítica social, una imaginación desbordante, melancolía y contemplación a partes iguales.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="../../../../images/2015-12-29-el-club-de-los-ninos-filosofos/1-47db342e.jpg" alt="Enriqueta y Madariaga. Liniers." title="Enriqueta y Madariaga. Liniers." /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Fuente: &lt;a href="http://www.porliniers.com"&gt;Por Liniers&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src="../../../../images/2015-12-29-el-club-de-los-ninos-filosofos/2-8b8bbf10.jpg" alt="Mafalda. Quino." title="Mafalda. Quino." /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Fuente: &lt;a href="http://www.imagenesdefrases.es/wp-content/uploads/2014/06/timthumb-25281-2529.jpg"&gt;Imagenes de Frases&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Cada uno de estos cómics explora diferentes puntos de vista de la infancia, mostrando el crecimiento interior de sus personajes a través de su descubrimiento del mundo; sus problemas, cuestionamientos e incertidumbres ante la enorme complejidad de la vida. En muchos formas, estos niños nos muestran lo que es el sentido básico de humanidad.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="../../../../images/2015-12-29-el-club-de-los-ninos-filosofos/3-a381cfa7.gif" alt="Peanuts. Charles Schulz." title="Peanuts. Charles Schulz." /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Fuente: &lt;a href="http://www.gocomics.com"&gt;GOCOMICS&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Como lector, vuelvo otra vez a una parte de mi infancia a través de estos cómics, para descubrir en las aventuras de Enriqueta, Calvin, Mafalda y Charlie que está bien perderse en la imaginación. Que está bien dudar sobre el mundo, la realidad y nosotros mismos y, como todo niño deseó, sentirse grande y pequeño a la vez.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="../../../../images/2015-12-29-el-club-de-los-ninos-filosofos/4-1c29d7ed.jpg" alt="Calvin and Hobbes. Bill Watterson." title="Calvin and Hobbes. Bill Watterson." /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Fuente: &lt;a href="http://www.gocomics.com"&gt;GOCOMICS&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Este texto apareció primero en &lt;a href="http://blog.comicgram.io/2015/12/22/el-club-de-los-ninos-filosofos"&gt;Comicgram&lt;/a&gt;.&lt;/p&gt;
+</content>
+  </entry>
+</feed>

@@ -642,3 +642,92 @@
 [2019-03-23 15:24:09 -0600 DanielMs-MacBook-Pro.local (40993)] INFO : Installing Rack::Builder middleware instrumentation
 [2019-03-23 15:24:09 -0600 DanielMs-MacBook-Pro.local (40993)] INFO : Finished instrumentation
 [2019-03-23 15:25:33 -0600 DanielMs-MacBook-Pro.local (36608)] INFO : Starting Agent shutdown
+[2019-03-23 15:26:17 -0600 DanielMs-MacBook-Pro.local (41233)] INFO : Starting the New Relic agent version 6.2.0.354 in "development" environment.
+[2019-03-23 15:26:17 -0600 DanielMs-MacBook-Pro.local (41233)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2019-03-23 15:26:17 -0600 DanielMs-MacBook-Pro.local (41233)] WARN : No configuration file found. Working directory = /Users/edmt/blog
+[2019-03-23 15:26:17 -0600 DanielMs-MacBook-Pro.local (41233)] WARN : Looked in these locations (based on defaults): /Users/edmt/blog/config/newrelic.yml, /Users/edmt/blog/newrelic.yml, /Users/edmt/blog/config/newrelic.yml, /Users/edmt/blog/newrelic.yml, /Users/edmt/.newrelic/newrelic.yml, /Users/edmt/newrelic.yml
+[2019-03-23 15:26:17 -0600 DanielMs-MacBook-Pro.local (41233)] INFO : Environment: development
+[2019-03-23 15:26:17 -0600 DanielMs-MacBook-Pro.local (41233)] INFO : No known dispatcher detected.
+[2019-03-23 15:26:17 -0600 DanielMs-MacBook-Pro.local (41233)] INFO : Application: development
+[2019-03-23 15:26:17 -0600 DanielMs-MacBook-Pro.local (41233)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2019-03-23 15:26:17 -0600 DanielMs-MacBook-Pro.local (41233)] INFO : Installing middleware-based Excon instrumentation
+[2019-03-23 15:26:17 -0600 DanielMs-MacBook-Pro.local (41233)] INFO : Installing Net instrumentation
+[2019-03-23 15:26:17 -0600 DanielMs-MacBook-Pro.local (41233)] INFO : Installing deferred Rack::Builder instrumentation
+[2019-03-23 15:26:17 -0600 DanielMs-MacBook-Pro.local (41233)] INFO : Installing Rack::Builder middleware instrumentation
+[2019-03-23 15:26:17 -0600 DanielMs-MacBook-Pro.local (41233)] INFO : Finished instrumentation
+[2019-03-23 15:26:23 -0600 DanielMs-MacBook-Pro.local (41233)] INFO : Doing deferred dependency-detection before Rack startup
+[2019-03-23 15:26:25 -0600 DanielMs-MacBook-Pro.local (41255)] INFO : Starting the New Relic agent version 6.2.0.354 in "development" environment.
+[2019-03-23 15:26:25 -0600 DanielMs-MacBook-Pro.local (41255)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2019-03-23 15:26:25 -0600 DanielMs-MacBook-Pro.local (41255)] WARN : No configuration file found. Working directory = /Users/edmt/blog
+[2019-03-23 15:26:25 -0600 DanielMs-MacBook-Pro.local (41255)] WARN : Looked in these locations (based on defaults): /Users/edmt/blog/config/newrelic.yml, /Users/edmt/blog/newrelic.yml, /Users/edmt/blog/config/newrelic.yml, /Users/edmt/blog/newrelic.yml, /Users/edmt/.newrelic/newrelic.yml, /Users/edmt/newrelic.yml
+[2019-03-23 15:26:25 -0600 DanielMs-MacBook-Pro.local (41255)] INFO : Environment: development
+[2019-03-23 15:26:25 -0600 DanielMs-MacBook-Pro.local (41255)] INFO : No known dispatcher detected.
+[2019-03-23 15:26:25 -0600 DanielMs-MacBook-Pro.local (41255)] INFO : Application: development
+[2019-03-23 15:26:25 -0600 DanielMs-MacBook-Pro.local (41255)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2019-03-23 15:26:25 -0600 DanielMs-MacBook-Pro.local (41255)] INFO : Installing middleware-based Excon instrumentation
+[2019-03-23 15:26:25 -0600 DanielMs-MacBook-Pro.local (41255)] INFO : Installing Net instrumentation
+[2019-03-23 15:26:25 -0600 DanielMs-MacBook-Pro.local (41255)] INFO : Installing deferred Rack::Builder instrumentation
+[2019-03-23 15:26:25 -0600 DanielMs-MacBook-Pro.local (41255)] INFO : Installing Rack::Builder middleware instrumentation
+[2019-03-23 15:26:25 -0600 DanielMs-MacBook-Pro.local (41255)] INFO : Finished instrumentation
+[2019-03-23 15:26:26 -0600 DanielMs-MacBook-Pro.local (41233)] WARN : Agent received a ForceDisconnectException from the server, disconnecting. (410: Gone)
+[2019-03-23 15:26:28 -0600 DanielMs-MacBook-Pro.local (41255)] INFO : Doing deferred dependency-detection before Rack startup
+[2019-03-23 15:26:28 -0600 DanielMs-MacBook-Pro.local (41279)] WARN : Ignoring addition of NewRelic::Agent::Samplers::CpuSampler because it is already registered.
+[2019-03-23 15:26:28 -0600 DanielMs-MacBook-Pro.local (41279)] WARN : Ignoring addition of NewRelic::Agent::Samplers::MemorySampler because it is already registered.
+[2019-03-23 15:26:28 -0600 DanielMs-MacBook-Pro.local (41278)] WARN : Ignoring addition of NewRelic::Agent::Samplers::CpuSampler because it is already registered.
+[2019-03-23 15:26:28 -0600 DanielMs-MacBook-Pro.local (41279)] WARN : Ignoring addition of NewRelic::Agent::Samplers::VMSampler because it is already registered.
+[2019-03-23 15:26:28 -0600 DanielMs-MacBook-Pro.local (41278)] WARN : Ignoring addition of NewRelic::Agent::Samplers::MemorySampler because it is already registered.
+[2019-03-23 15:26:28 -0600 DanielMs-MacBook-Pro.local (41278)] WARN : Ignoring addition of NewRelic::Agent::Samplers::VMSampler because it is already registered.
+[2019-03-23 15:26:28 -0600 DanielMs-MacBook-Pro.local (41279)] INFO : Starting Agent shutdown
+[2019-03-23 15:26:28 -0600 DanielMs-MacBook-Pro.local (41278)] INFO : Starting Agent shutdown
+[2019-03-23 15:26:29 -0600 DanielMs-MacBook-Pro.local (41289)] WARN : Ignoring addition of NewRelic::Agent::Samplers::CpuSampler because it is already registered.
+[2019-03-23 15:26:29 -0600 DanielMs-MacBook-Pro.local (41289)] WARN : Ignoring addition of NewRelic::Agent::Samplers::MemorySampler because it is already registered.
+[2019-03-23 15:26:29 -0600 DanielMs-MacBook-Pro.local (41289)] WARN : Ignoring addition of NewRelic::Agent::Samplers::VMSampler because it is already registered.
+[2019-03-23 15:26:29 -0600 DanielMs-MacBook-Pro.local (41287)] WARN : Ignoring addition of NewRelic::Agent::Samplers::CpuSampler because it is already registered.
+[2019-03-23 15:26:29 -0600 DanielMs-MacBook-Pro.local (41287)] WARN : Ignoring addition of NewRelic::Agent::Samplers::MemorySampler because it is already registered.
+[2019-03-23 15:26:29 -0600 DanielMs-MacBook-Pro.local (41287)] WARN : Ignoring addition of NewRelic::Agent::Samplers::VMSampler because it is already registered.
+[2019-03-23 15:26:29 -0600 DanielMs-MacBook-Pro.local (41288)] WARN : Ignoring addition of NewRelic::Agent::Samplers::CpuSampler because it is already registered.
+[2019-03-23 15:26:29 -0600 DanielMs-MacBook-Pro.local (41288)] WARN : Ignoring addition of NewRelic::Agent::Samplers::MemorySampler because it is already registered.
+[2019-03-23 15:26:29 -0600 DanielMs-MacBook-Pro.local (41288)] WARN : Ignoring addition of NewRelic::Agent::Samplers::VMSampler because it is already registered.
+[2019-03-23 15:26:29 -0600 DanielMs-MacBook-Pro.local (41286)] WARN : Ignoring addition of NewRelic::Agent::Samplers::CpuSampler because it is already registered.
+[2019-03-23 15:26:29 -0600 DanielMs-MacBook-Pro.local (41286)] WARN : Ignoring addition of NewRelic::Agent::Samplers::MemorySampler because it is already registered.
+[2019-03-23 15:26:29 -0600 DanielMs-MacBook-Pro.local (41286)] WARN : Ignoring addition of NewRelic::Agent::Samplers::VMSampler because it is already registered.
+[2019-03-23 15:26:30 -0600 DanielMs-MacBook-Pro.local (41255)] WARN : Agent received a ForceDisconnectException from the server, disconnecting. (410: Gone)
+[2019-03-23 15:26:31 -0600 DanielMs-MacBook-Pro.local (41287)] WARN : Agent received a ForceDisconnectException from the server, disconnecting. (410: Gone)
+[2019-03-23 15:26:31 -0600 DanielMs-MacBook-Pro.local (41289)] WARN : Agent received a ForceDisconnectException from the server, disconnecting. (410: Gone)
+[2019-03-23 15:26:31 -0600 DanielMs-MacBook-Pro.local (41288)] WARN : Agent received a ForceDisconnectException from the server, disconnecting. (410: Gone)
+[2019-03-23 15:26:32 -0600 DanielMs-MacBook-Pro.local (41286)] WARN : Agent received a ForceDisconnectException from the server, disconnecting. (410: Gone)
+[2019-03-23 15:26:32 -0600 DanielMs-MacBook-Pro.local (41288)] INFO : Starting Agent shutdown
+[2019-03-23 15:26:32 -0600 DanielMs-MacBook-Pro.local (41287)] INFO : Starting Agent shutdown
+[2019-03-23 15:26:32 -0600 DanielMs-MacBook-Pro.local (41289)] INFO : Starting Agent shutdown
+[2019-03-23 15:26:32 -0600 DanielMs-MacBook-Pro.local (41286)] INFO : Starting Agent shutdown
+[2019-03-23 15:26:33 -0600 DanielMs-MacBook-Pro.local (41255)] INFO : Starting Agent shutdown
+[2019-03-23 15:26:54 -0600 DanielMs-MacBook-Pro.local (41233)] INFO : Starting Agent shutdown
+[2019-03-24 23:56:05 -0600 DanielMs-MacBook-Pro.local (43440)] INFO : Starting the New Relic agent version 6.2.0.354 in "development" environment.
+[2019-03-24 23:56:05 -0600 DanielMs-MacBook-Pro.local (43440)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2019-03-24 23:56:05 -0600 DanielMs-MacBook-Pro.local (43440)] WARN : No configuration file found. Working directory = /Users/edmt/blog
+[2019-03-24 23:56:05 -0600 DanielMs-MacBook-Pro.local (43440)] WARN : Looked in these locations (based on defaults): /Users/edmt/blog/config/newrelic.yml, /Users/edmt/blog/newrelic.yml, /Users/edmt/blog/config/newrelic.yml, /Users/edmt/blog/newrelic.yml, /Users/edmt/.newrelic/newrelic.yml, /Users/edmt/newrelic.yml
+[2019-03-24 23:56:05 -0600 DanielMs-MacBook-Pro.local (43440)] INFO : Environment: development
+[2019-03-24 23:56:05 -0600 DanielMs-MacBook-Pro.local (43440)] INFO : No known dispatcher detected.
+[2019-03-24 23:56:05 -0600 DanielMs-MacBook-Pro.local (43440)] INFO : Application: development
+[2019-03-24 23:56:05 -0600 DanielMs-MacBook-Pro.local (43440)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2019-03-24 23:56:05 -0600 DanielMs-MacBook-Pro.local (43440)] INFO : Installing middleware-based Excon instrumentation
+[2019-03-24 23:56:05 -0600 DanielMs-MacBook-Pro.local (43440)] INFO : Installing Net instrumentation
+[2019-03-24 23:56:05 -0600 DanielMs-MacBook-Pro.local (43440)] INFO : Installing deferred Rack::Builder instrumentation
+[2019-03-24 23:56:05 -0600 DanielMs-MacBook-Pro.local (43440)] INFO : Installing Rack::Builder middleware instrumentation
+[2019-03-24 23:56:05 -0600 DanielMs-MacBook-Pro.local (43440)] INFO : Finished instrumentation
+[2019-03-24 23:58:15 -0600 DanielMs-MacBook-Pro.local (43495)] INFO : Starting the New Relic agent version 6.2.0.354 in "development" environment.
+[2019-03-24 23:58:15 -0600 DanielMs-MacBook-Pro.local (43495)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2019-03-24 23:58:15 -0600 DanielMs-MacBook-Pro.local (43495)] WARN : No configuration file found. Working directory = /Users/edmt/blog
+[2019-03-24 23:58:15 -0600 DanielMs-MacBook-Pro.local (43495)] WARN : Looked in these locations (based on defaults): /Users/edmt/blog/config/newrelic.yml, /Users/edmt/blog/newrelic.yml, /Users/edmt/blog/config/newrelic.yml, /Users/edmt/blog/newrelic.yml, /Users/edmt/.newrelic/newrelic.yml, /Users/edmt/newrelic.yml
+[2019-03-24 23:58:15 -0600 DanielMs-MacBook-Pro.local (43495)] INFO : Environment: development
+[2019-03-24 23:58:15 -0600 DanielMs-MacBook-Pro.local (43495)] INFO : No known dispatcher detected.
+[2019-03-24 23:58:15 -0600 DanielMs-MacBook-Pro.local (43495)] INFO : Application: development
+[2019-03-24 23:58:15 -0600 DanielMs-MacBook-Pro.local (43495)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2019-03-24 23:58:15 -0600 DanielMs-MacBook-Pro.local (43495)] INFO : Installing middleware-based Excon instrumentation
+[2019-03-24 23:58:15 -0600 DanielMs-MacBook-Pro.local (43495)] INFO : Installing Net instrumentation
+[2019-03-24 23:58:15 -0600 DanielMs-MacBook-Pro.local (43495)] INFO : Installing deferred Rack::Builder instrumentation
+[2019-03-24 23:58:15 -0600 DanielMs-MacBook-Pro.local (43495)] INFO : Installing Rack::Builder middleware instrumentation
+[2019-03-24 23:58:15 -0600 DanielMs-MacBook-Pro.local (43495)] INFO : Finished instrumentation
+[2019-03-24 23:58:20 -0600 DanielMs-MacBook-Pro.local (43495)] INFO : Doing deferred dependency-detection before Rack startup
+[2019-03-24 23:58:22 -0600 DanielMs-MacBook-Pro.local (43495)] WARN : Agent received a ForceDisconnectException from the server, disconnecting. (410: Gone)
+[2019-03-25 00:03:03 -0600 DanielMs-MacBook-Pro.local (43495)] INFO : Starting Agent shutdown

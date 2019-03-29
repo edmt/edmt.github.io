@@ -149,6 +149,10 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://edmt.github.io/2019/03/29/i-wish-i-knew-what-to-do-with-my-life/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://edmt.github.io/2014/05/31/todos-los-dias-el-mismo-sueno/</loc>
     <priority>0.5</priority>
   </url>
@@ -261,6 +265,10 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://edmt.github.io/tags/citas/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://edmt.github.io/tags/humor/</loc>
     <priority>0.5</priority>
   </url>
@@ -270,10 +278,6 @@
   </url>
   <url>
     <loc>http://edmt.github.io/tags/canciones/</loc>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://edmt.github.io/tags/citas/</loc>
     <priority>0.5</priority>
   </url>
   <url>
@@ -306,6 +310,10 @@
   </url>
   <url>
     <loc>http://edmt.github.io/2019/03/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2019/03/29/</loc>
     <priority>0.5</priority>
   </url>
   <url>

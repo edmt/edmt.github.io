@@ -73,6 +73,10 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://edmt.github.io/2019/05/17/common-rules-in-cryptography/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://edmt.github.io/2010/07/29/twelve-monkeys/</loc>
     <priority>0.5</priority>
   </url>
@@ -265,6 +269,10 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://edmt.github.io/tags/software/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://edmt.github.io/tags/citas/</loc>
     <priority>0.5</priority>
   </url>
@@ -289,10 +297,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://edmt.github.io/tags/software/</loc>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://edmt.github.io/tags/urbanismo/</loc>
     <priority>0.5</priority>
   </url>
@@ -306,6 +310,14 @@
   </url>
   <url>
     <loc>http://edmt.github.io/2019/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2019/05/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2019/05/17/</loc>
     <priority>0.5</priority>
   </url>
   <url>

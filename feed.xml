@@ -4,10 +4,45 @@
   <id>http://edmt.github.io</id>
   <link href="http://edmt.github.io"/>
   <link href="http://edmt.github.io/feed.xml" rel="self"/>
-  <updated>2019-03-29T16:32:00-06:00</updated>
+  <updated>2019-05-16T22:26:00-05:00</updated>
   <author>
     <name>Daniel M</name>
   </author>
+  <entry>
+    <title>Common rules in cryptography</title>
+    <link rel="alternate" href="http://edmt.github.io/2019/05/17/common-rules-in-cryptography/"/>
+    <id>http://edmt.github.io/2019/05/17/common-rules-in-cryptography/</id>
+    <published>2019-05-16T22:26:00-05:00</published>
+    <updated>2019-05-28T10:56:54-05:00</updated>
+    <summary type="html">&lt;blockquote&gt;
+  &lt;p&gt;While cryptographic security is precisely defined, this paper asks the question whether developers who use cryptographic APIs achieve this notion of security. Using cryptographic primitives correctly can be challenging. In particular, any application...&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;While cryptographic security is precisely defined, this paper asks the question whether developers who use cryptographic APIs achieve this notion of security. Using cryptographic primitives correctly can be challenging. In particular, any application that violates one of the following six rules cannot be secure.&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Rule 1: Do not use ECB mode for encryption.&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;p&gt;A significant problem with ECB mode is that identical messages encrypt to identical ciphertexts. Such a leak of information is often intolerable.&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Rule 2: Do not use a non-random IV for CBC encryption.&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;p&gt;In essence, CBC$ shouldalways be used. Unfortunately, it is common to initializethe IV with a constant, e.g., all zeros. A constant IV results in a deterministic, stateless cipher.&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Rule 3: Do not use constant encryption keys.&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;p&gt;Intuitively, a constant key hard-coded in publicly available software is not a secret key, thus the resulting encryption does not provide privacy.&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Rule 4: Do not use constant salts for PBE.&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;Rule 5: Do not use fewer than 1,000 iterations for PBE.&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;p&gt;Rule 4 and Rule 5 are both recommended best practices for PBE schemes.&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Rule 6: Do not use static seeds to seed SecureRandom()&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;Reference: M. Egele, D. Brumley, Y. Fratantonio, and C. Kruegel. An Empirical Study of Cryptographic Misuse in Android Applications.&lt;/em&gt;&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>I wish I knew what to do with my life...</title>
     <link rel="alternate" href="http://edmt.github.io/2019/03/29/i-wish-i-knew-what-to-do-with-my-life/"/>
@@ -225,28 +260,6 @@
   &lt;p&gt;God, but life is loneliness, despite all the opiates, despite the shrill tinsel gaiety of ‘parties’ with no purpose, despite the false grinning faces we all wear. And when at last you find someone to whom you feel you can pour out your soul, you stop in shock at the words you utter – they are so rusty, so ugly, so meaningless and feeble from being kept in the small cramped dark inside you so long. Yes, there is joy, fulfillment and companionship – but the loneliness of the soul in its appalling self-consciousness is horrible and overpowering.&lt;/p&gt;
 
   &lt;p&gt;— &lt;em&gt;Sylvia Plath&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Frases y fragmentos de lecturas más o menos recientes</title>
-    <link rel="alternate" href="http://edmt.github.io/2017/08/07/kaczynski/"/>
-    <id>http://edmt.github.io/2017/08/07/kaczynski/</id>
-    <published>2017-08-07T13:32:00-05:00</published>
-    <updated>2018-10-06T11:55:57-05:00</updated>
-    <summary type="html">
-&lt;blockquote&gt;
-  &lt;p&gt;126) Let us explain why technology is a more powerful social force than the aspiration for freedom.&lt;/p&gt;
-
-  &lt;p&gt;127) A technological advance that appears not to threaten freedom often turns out to threaten it very seriously later on. For example, consider...&lt;/p&gt;
-&lt;/blockquote&gt;</summary>
-    <content type="html">
-&lt;blockquote&gt;
-  &lt;p&gt;126) Let us explain why technology is a more powerful social force than the aspiration for freedom.&lt;/p&gt;
-
-  &lt;p&gt;127) A technological advance that appears not to threaten freedom often turns out to threaten it very seriously later on. For example, consider motorized transport. A walking man formerly could go where he pleased, go at his own pace without observing any traffic regulations, and was independent of technological support-systems. When motor vehicles were introduced they appeared to increase man’s freedom. They took no freedom away from the walking man, no one had to have an automobile if he didn’t want one, and anyone who did choose to buy an automobile could travel much faster and farther than a walking man. But the introduction of motorized transport soon changed society in such a way as to restrict greatly man’s freedom of locomotion. When automobiles became numerous, it became necessary to regulate their use extensively. In a car, especially in densely populated areas, one cannot just go where one likes at one’s own pace; one’s movement is governed by the flow of traffic and by various traffic laws. One is tied down by various obligations: license requirements, driver test, renewing registration, insurance, maintenance required for safety, monthly payments on purchase price. Moreover, the use of motorized transport is no longer optional. Since the introduction of motorized transport the arrangement of our cities has changed in such a way that the majority of people no longer live within walking distance of their place of employment, shopping areas and recreational opportunities, so that they HAVE TO depend on the automobile for transportation. Or else they must use public transportation, in which case they have even less control over their own movement than when driving a car. Even the walker’s freedom is now greatly restricted. In the city he continually has to stop to wait for traffic lights that are designed mainly to serve auto traffic. In the country, motor traffic makes it dangerous and unpleasant to walk along the highway. (Note this important point that we have just illustrated with the case of motorized transport: When a new item of technology is introduced as an option that an individual can accept or not as he chooses, it does not necessarily REMAIN optional. In many cases the new technology changes society in such a way that people eventually find themselves FORCED to use it.)&lt;/p&gt;
-
-  &lt;p&gt;— &lt;em&gt;Theodore Kaczynski&lt;/em&gt;, Industrial Society and Its Future&lt;/p&gt;
 &lt;/blockquote&gt;
 </content>
   </entry>

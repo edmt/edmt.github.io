@@ -848,3 +848,83 @@
 [2019-03-29 16:35:06 -0600 DanielMs-MacBook-Pro.local (3195)] INFO : Starting Agent shutdown
 [2019-03-29 16:35:06 -0600 DanielMs-MacBook-Pro.local (3158)] INFO : Starting Agent shutdown
 [2019-03-29 16:35:18 -0600 DanielMs-MacBook-Pro.local (3139)] INFO : Starting Agent shutdown
+[2019-05-28 10:34:40 -0500 DanielMs-MacBook-Pro.local (1616)] INFO : Starting the New Relic agent version 6.2.0.354 in "development" environment.
+[2019-05-28 10:34:40 -0500 DanielMs-MacBook-Pro.local (1616)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2019-05-28 10:34:40 -0500 DanielMs-MacBook-Pro.local (1616)] WARN : No configuration file found. Working directory = /Users/edmt/blog
+[2019-05-28 10:34:40 -0500 DanielMs-MacBook-Pro.local (1616)] WARN : Looked in these locations (based on defaults): /Users/edmt/blog/config/newrelic.yml, /Users/edmt/blog/newrelic.yml, /Users/edmt/blog/config/newrelic.yml, /Users/edmt/blog/newrelic.yml, /Users/edmt/.newrelic/newrelic.yml, /Users/edmt/newrelic.yml
+[2019-05-28 10:34:40 -0500 DanielMs-MacBook-Pro.local (1616)] INFO : Environment: development
+[2019-05-28 10:34:40 -0500 DanielMs-MacBook-Pro.local (1616)] INFO : No known dispatcher detected.
+[2019-05-28 10:34:40 -0500 DanielMs-MacBook-Pro.local (1616)] INFO : Application: development
+[2019-05-28 10:34:40 -0500 DanielMs-MacBook-Pro.local (1616)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2019-05-28 10:34:40 -0500 DanielMs-MacBook-Pro.local (1616)] INFO : Installing middleware-based Excon instrumentation
+[2019-05-28 10:34:40 -0500 DanielMs-MacBook-Pro.local (1616)] INFO : Installing Net instrumentation
+[2019-05-28 10:34:40 -0500 DanielMs-MacBook-Pro.local (1616)] INFO : Installing deferred Rack::Builder instrumentation
+[2019-05-28 10:34:40 -0500 DanielMs-MacBook-Pro.local (1616)] INFO : Installing Rack::Builder middleware instrumentation
+[2019-05-28 10:34:40 -0500 DanielMs-MacBook-Pro.local (1616)] INFO : Finished instrumentation
+[2019-05-28 10:36:30 -0500 DanielMs-MacBook-Pro.local (1737)] INFO : Starting the New Relic agent version 6.2.0.354 in "development" environment.
+[2019-05-28 10:36:30 -0500 DanielMs-MacBook-Pro.local (1737)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2019-05-28 10:36:30 -0500 DanielMs-MacBook-Pro.local (1737)] WARN : No configuration file found. Working directory = /Users/edmt/blog
+[2019-05-28 10:36:30 -0500 DanielMs-MacBook-Pro.local (1737)] WARN : Looked in these locations (based on defaults): /Users/edmt/blog/config/newrelic.yml, /Users/edmt/blog/newrelic.yml, /Users/edmt/blog/config/newrelic.yml, /Users/edmt/blog/newrelic.yml, /Users/edmt/.newrelic/newrelic.yml, /Users/edmt/newrelic.yml
+[2019-05-28 10:36:30 -0500 DanielMs-MacBook-Pro.local (1737)] INFO : Environment: development
+[2019-05-28 10:36:30 -0500 DanielMs-MacBook-Pro.local (1737)] INFO : No known dispatcher detected.
+[2019-05-28 10:36:30 -0500 DanielMs-MacBook-Pro.local (1737)] INFO : Application: development
+[2019-05-28 10:36:30 -0500 DanielMs-MacBook-Pro.local (1737)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2019-05-28 10:36:30 -0500 DanielMs-MacBook-Pro.local (1737)] INFO : Installing middleware-based Excon instrumentation
+[2019-05-28 10:36:30 -0500 DanielMs-MacBook-Pro.local (1737)] INFO : Installing Net instrumentation
+[2019-05-28 10:36:30 -0500 DanielMs-MacBook-Pro.local (1737)] INFO : Installing deferred Rack::Builder instrumentation
+[2019-05-28 10:36:30 -0500 DanielMs-MacBook-Pro.local (1737)] INFO : Installing Rack::Builder middleware instrumentation
+[2019-05-28 10:36:30 -0500 DanielMs-MacBook-Pro.local (1737)] INFO : Finished instrumentation
+[2019-05-28 10:36:36 -0500 DanielMs-MacBook-Pro.local (1774)] INFO : Starting the New Relic agent version 6.2.0.354 in "development" environment.
+[2019-05-28 10:36:36 -0500 DanielMs-MacBook-Pro.local (1774)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2019-05-28 10:36:36 -0500 DanielMs-MacBook-Pro.local (1774)] WARN : No configuration file found. Working directory = /Users/edmt/blog
+[2019-05-28 10:36:36 -0500 DanielMs-MacBook-Pro.local (1774)] WARN : Looked in these locations (based on defaults): /Users/edmt/blog/config/newrelic.yml, /Users/edmt/blog/newrelic.yml, /Users/edmt/blog/config/newrelic.yml, /Users/edmt/blog/newrelic.yml, /Users/edmt/.newrelic/newrelic.yml, /Users/edmt/newrelic.yml
+[2019-05-28 10:36:36 -0500 DanielMs-MacBook-Pro.local (1774)] INFO : Environment: development
+[2019-05-28 10:36:36 -0500 DanielMs-MacBook-Pro.local (1774)] INFO : No known dispatcher detected.
+[2019-05-28 10:36:36 -0500 DanielMs-MacBook-Pro.local (1774)] INFO : Application: development
+[2019-05-28 10:36:36 -0500 DanielMs-MacBook-Pro.local (1774)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2019-05-28 10:36:36 -0500 DanielMs-MacBook-Pro.local (1774)] INFO : Installing middleware-based Excon instrumentation
+[2019-05-28 10:36:36 -0500 DanielMs-MacBook-Pro.local (1774)] INFO : Installing Net instrumentation
+[2019-05-28 10:36:36 -0500 DanielMs-MacBook-Pro.local (1774)] INFO : Installing deferred Rack::Builder instrumentation
+[2019-05-28 10:36:36 -0500 DanielMs-MacBook-Pro.local (1774)] INFO : Installing Rack::Builder middleware instrumentation
+[2019-05-28 10:36:36 -0500 DanielMs-MacBook-Pro.local (1774)] INFO : Finished instrumentation
+[2019-05-28 10:36:58 -0500 DanielMs-MacBook-Pro.local (1811)] INFO : Starting the New Relic agent version 6.2.0.354 in "development" environment.
+[2019-05-28 10:36:58 -0500 DanielMs-MacBook-Pro.local (1811)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2019-05-28 10:36:58 -0500 DanielMs-MacBook-Pro.local (1811)] WARN : No configuration file found. Working directory = /Users/edmt/blog
+[2019-05-28 10:36:58 -0500 DanielMs-MacBook-Pro.local (1811)] WARN : Looked in these locations (based on defaults): /Users/edmt/blog/config/newrelic.yml, /Users/edmt/blog/newrelic.yml, /Users/edmt/blog/config/newrelic.yml, /Users/edmt/blog/newrelic.yml, /Users/edmt/.newrelic/newrelic.yml, /Users/edmt/newrelic.yml
+[2019-05-28 10:36:58 -0500 DanielMs-MacBook-Pro.local (1811)] INFO : Environment: development
+[2019-05-28 10:36:58 -0500 DanielMs-MacBook-Pro.local (1811)] INFO : No known dispatcher detected.
+[2019-05-28 10:36:58 -0500 DanielMs-MacBook-Pro.local (1811)] INFO : Application: development
+[2019-05-28 10:36:58 -0500 DanielMs-MacBook-Pro.local (1811)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2019-05-28 10:36:58 -0500 DanielMs-MacBook-Pro.local (1811)] INFO : Installing middleware-based Excon instrumentation
+[2019-05-28 10:36:58 -0500 DanielMs-MacBook-Pro.local (1811)] INFO : Installing Net instrumentation
+[2019-05-28 10:36:58 -0500 DanielMs-MacBook-Pro.local (1811)] INFO : Installing deferred Rack::Builder instrumentation
+[2019-05-28 10:36:58 -0500 DanielMs-MacBook-Pro.local (1811)] INFO : Installing Rack::Builder middleware instrumentation
+[2019-05-28 10:36:58 -0500 DanielMs-MacBook-Pro.local (1811)] INFO : Finished instrumentation
+[2019-05-28 10:42:06 -0500 DanielMs-MacBook-Pro.local (15829)] INFO : Starting the New Relic agent version 6.3.0.355 in "development" environment.
+[2019-05-28 10:42:06 -0500 DanielMs-MacBook-Pro.local (15829)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2019-05-28 10:42:06 -0500 DanielMs-MacBook-Pro.local (15829)] WARN : No configuration file found. Working directory = /Users/edmt/blog
+[2019-05-28 10:42:06 -0500 DanielMs-MacBook-Pro.local (15829)] WARN : Looked in these locations (based on defaults): /Users/edmt/blog/config/newrelic.yml, /Users/edmt/blog/newrelic.yml, /Users/edmt/blog/config/newrelic.yml, /Users/edmt/blog/newrelic.yml, /Users/edmt/.newrelic/newrelic.yml, /Users/edmt/newrelic.yml
+[2019-05-28 10:42:06 -0500 DanielMs-MacBook-Pro.local (15829)] INFO : Environment: development
+[2019-05-28 10:42:06 -0500 DanielMs-MacBook-Pro.local (15829)] INFO : No known dispatcher detected.
+[2019-05-28 10:42:06 -0500 DanielMs-MacBook-Pro.local (15829)] INFO : Application: development
+[2019-05-28 10:42:06 -0500 DanielMs-MacBook-Pro.local (15829)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2019-05-28 10:42:06 -0500 DanielMs-MacBook-Pro.local (15829)] INFO : Installing middleware-based Excon instrumentation
+[2019-05-28 10:42:06 -0500 DanielMs-MacBook-Pro.local (15829)] INFO : Installing Net instrumentation
+[2019-05-28 10:42:06 -0500 DanielMs-MacBook-Pro.local (15829)] INFO : Installing deferred Rack::Builder instrumentation
+[2019-05-28 10:42:06 -0500 DanielMs-MacBook-Pro.local (15829)] INFO : Installing Rack::Builder middleware instrumentation
+[2019-05-28 10:42:06 -0500 DanielMs-MacBook-Pro.local (15829)] INFO : Finished instrumentation
+[2019-05-28 10:43:46 -0500 DanielMs-MacBook-Pro.local (16046)] INFO : Starting the New Relic agent version 6.3.0.355 in "development" environment.
+[2019-05-28 10:43:46 -0500 DanielMs-MacBook-Pro.local (16046)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2019-05-28 10:43:46 -0500 DanielMs-MacBook-Pro.local (16046)] WARN : No configuration file found. Working directory = /Users/edmt/blog
+[2019-05-28 10:43:46 -0500 DanielMs-MacBook-Pro.local (16046)] WARN : Looked in these locations (based on defaults): /Users/edmt/blog/config/newrelic.yml, /Users/edmt/blog/newrelic.yml, /Users/edmt/blog/config/newrelic.yml, /Users/edmt/blog/newrelic.yml, /Users/edmt/.newrelic/newrelic.yml, /Users/edmt/newrelic.yml
+[2019-05-28 10:43:46 -0500 DanielMs-MacBook-Pro.local (16046)] INFO : Environment: development
+[2019-05-28 10:43:46 -0500 DanielMs-MacBook-Pro.local (16046)] INFO : No known dispatcher detected.
+[2019-05-28 10:43:46 -0500 DanielMs-MacBook-Pro.local (16046)] INFO : Application: development
+[2019-05-28 10:43:46 -0500 DanielMs-MacBook-Pro.local (16046)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2019-05-28 10:43:46 -0500 DanielMs-MacBook-Pro.local (16046)] INFO : Installing middleware-based Excon instrumentation
+[2019-05-28 10:43:46 -0500 DanielMs-MacBook-Pro.local (16046)] INFO : Installing Net instrumentation
+[2019-05-28 10:43:46 -0500 DanielMs-MacBook-Pro.local (16046)] INFO : Installing deferred Rack::Builder instrumentation
+[2019-05-28 10:43:46 -0500 DanielMs-MacBook-Pro.local (16046)] INFO : Installing Rack::Builder middleware instrumentation
+[2019-05-28 10:43:46 -0500 DanielMs-MacBook-Pro.local (16046)] INFO : Finished instrumentation
+[2019-05-28 10:44:16 -0500 DanielMs-MacBook-Pro.local (16046)] INFO : Doing deferred dependency-detection before Rack startup
+[2019-05-28 10:44:18 -0500 DanielMs-MacBook-Pro.local (16046)] WARN : Agent received a ForceDisconnectException from the server, disconnecting. (410: Gone)

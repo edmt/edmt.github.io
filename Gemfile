@@ -1,10 +1,10 @@
 source 'https://rubygems.org'
 
 # middleman
-gem 'middleman', '~> 4.1'
+gem 'middleman', '4.3.4'
 
 # middleman-blog
-gem 'middleman-blog', '~> 4.0'
+gem 'middleman-blog', '4.0.3'
 
 # For syntax highlighting
 gem 'middleman-syntax'

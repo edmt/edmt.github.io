@@ -4,10 +4,32 @@
   <id>http://edmt.github.io</id>
   <link href="http://edmt.github.io"/>
   <link href="http://edmt.github.io/feed.xml" rel="self"/>
-  <updated>2019-05-16T22:26:00-05:00</updated>
+  <updated>2019-08-29T12:35:00-05:00</updated>
   <author>
     <name>Daniel M</name>
   </author>
+  <entry>
+    <title>El Pueblo de los Seis Rios</title>
+    <link rel="alternate" href="http://edmt.github.io/2019/08/29/el-pueblo-de-los-seis-rios/"/>
+    <id>http://edmt.github.io/2019/08/29/el-pueblo-de-los-seis-rios/</id>
+    <published>2019-08-29T12:35:00-05:00</published>
+    <updated>2019-08-29T12:50:44-05:00</updated>
+    <summary type="html">&lt;p&gt;Parte del texto &lt;a href="http://www.elbarrioantiguo.com/adios-monterrey-vi/"&gt;Adiós, Monterrey VI&lt;/a&gt; de &lt;a href="https://twitter.com/tonyo_hernandez"&gt;Antonio Hernández&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Somos el Pueblo de los Seis Ríos. Seis subcuencas hidrográficas son las que nos han sostenido en todos los tiempos de la ciudad. Con afluentes desde los bosques en las montañas, o atravesando...&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    <content type="html">&lt;p&gt;Parte del texto &lt;a href="http://www.elbarrioantiguo.com/adios-monterrey-vi/"&gt;Adiós, Monterrey VI&lt;/a&gt; de &lt;a href="https://twitter.com/tonyo_hernandez"&gt;Antonio Hernández&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Somos el Pueblo de los Seis Ríos. Seis subcuencas hidrográficas son las que nos han sostenido en todos los tiempos de la ciudad. Con afluentes desde los bosques en las montañas, o atravesando zonas áridas, el agua ahí está presente.&lt;/p&gt;
+
+  &lt;p&gt;Salinas, Pesquería, Santa Catarina, Ramos, San Juan y Pilón. Esas son las geografías acuáticas que contienen los recursos que han de establecer, con sus abundancias y austeridades, el destino del crecimiento en Monterrey […].&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Casi 3 décadas y apenas me entero de que hay &lt;em&gt;seis&lt;/em&gt; ríos.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Common rules in cryptography</title>
     <link rel="alternate" href="http://edmt.github.io/2019/05/17/common-rules-in-cryptography/"/>
@@ -245,22 +267,6 @@
 &lt;p&gt;I really don’t know what I have to care.&lt;/p&gt;
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/iul0yWUJ5X4?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""&gt;&lt;/iframe&gt;
-</content>
-  </entry>
-  <entry>
-    <title>But life is loneliness</title>
-    <link rel="alternate" href="http://edmt.github.io/2018/10/06/but-life-is-loneliness/"/>
-    <id>http://edmt.github.io/2018/10/06/but-life-is-loneliness/</id>
-    <published>2018-10-06T12:01:00-05:00</published>
-    <updated>2018-10-06T12:02:40-05:00</updated>
-    <summary type="html">&lt;blockquote&gt;
-  &lt;p&gt;God, but life is loneliness, despite all the opiates, despite the shrill tinsel gaiety of ‘parties’ with no purpose, despite the false grinning faces we all wear. And when at last you find someone to whom you feel you can pour out your soul, you...&lt;/p&gt;
-&lt;/blockquote&gt;</summary>
-    <content type="html">&lt;blockquote&gt;
-  &lt;p&gt;God, but life is loneliness, despite all the opiates, despite the shrill tinsel gaiety of ‘parties’ with no purpose, despite the false grinning faces we all wear. And when at last you find someone to whom you feel you can pour out your soul, you stop in shock at the words you utter – they are so rusty, so ugly, so meaningless and feeble from being kept in the small cramped dark inside you so long. Yes, there is joy, fulfillment and companionship – but the loneliness of the soul in its appalling self-consciousness is horrible and overpowering.&lt;/p&gt;
-
-  &lt;p&gt;— &lt;em&gt;Sylvia Plath&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
 </content>
   </entry>
 </feed>

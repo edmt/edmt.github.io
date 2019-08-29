@@ -97,6 +97,10 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://edmt.github.io/2019/08/29/el-pueblo-de-los-seis-rios/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://edmt.github.io/2017/03/30/when-the-spirits-are-low-when-the-day-appears-dark/</loc>
     <priority>0.5</priority>
   </url>
@@ -269,6 +273,10 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://edmt.github.io/tags/local/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://edmt.github.io/tags/software/</loc>
     <priority>0.5</priority>
   </url>
@@ -305,11 +313,15 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://edmt.github.io/tags/sofware/</loc>
+    <loc>http://edmt.github.io/2019/</loc>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://edmt.github.io/2019/</loc>
+    <loc>http://edmt.github.io/2019/08/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://edmt.github.io/2019/08/29/</loc>
     <priority>0.5</priority>
   </url>
   <url>

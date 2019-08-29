@@ -2,7 +2,7 @@
 
 title: Our local horror history
 date: 2010-12-10 17:15 UTC
-tags:
+tags: Local
 
 ---
 
